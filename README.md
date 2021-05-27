@@ -17,6 +17,6 @@ The predictions of the model as well as a barplot of its confidence is presented
 <br>The model achieved those results in almost no time (<3minutes), in less than 50 epochs (best val_accuracy was saved in the 46th epoch)
 and with a few examples (927 samples in total for training, validation and testing). The learning curves are also presented below:
 
-<img src="https://github.com/skanelo/Deep-Emotion-Recognition/blob/main/results/learning_curves.png" width="850" height="400"> 
+<img src="https://github.com/skanelo/Deep-Emotion-Recognition/blob/main/results/learning_curves.png" width="850" height="360"> 
 
 A more comprehensive analysis of my approach as well as a step-by-step guide is presented at my **<pending_hyperlink_for_the_article>** on Towards Data Science.
