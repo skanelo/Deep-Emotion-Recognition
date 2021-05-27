@@ -8,8 +8,8 @@ The **CK+48** dataset has been used (for both training and testing), and the mod
 Below the predictions of the network on some randomly chosen images from the test set are presented. These images <br>
 belong to the test set, and thus during the inference mode it was the first time the model encountered these samples.
 
-<img src="https://github.com/skanelo/Deep-Emotion-Recognition/blob/main/results/pred_2.png" width="420"> |
-<img src="https://github.com/skanelo/Deep-Emotion-Recognition/blob/main/results/pred_3.png" width="420"> 
+<img src="https://github.com/skanelo/Deep-Emotion-Recognition/blob/main/results/pred_2.png" width="400"> |
+<img src="https://github.com/skanelo/Deep-Emotion-Recognition/blob/main/results/pred_3.png" width="400"> 
 
 The predictions of the model as well as a barplot of its confidence is presented on these images along with the actual label of each image.<br>
 
